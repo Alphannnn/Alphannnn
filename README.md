@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Fatima Naeem Ul Haq 👋</h1>
-  <p>Building modern, fast, and profitable web experiences 🚀</p>
+  <p>I craft websites that look stunning, load fast, and convert visitors into customers. With expertise in React, Next.js, Node.js, WordPress, Shopify, and modern design tools, I turn ideas into profitable, scalable digital experiences. Choose me if you want results, reliability, and a developer who actually delivers.</p>
 </div>
 
 ---
