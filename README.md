@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>Hi, I'm Fatima Naeem Ul Haq 👋</h1>
   <p>I craft websites that look stunning, load fast, and convert visitors into customers. As a MERN Stack trainer, I also share my knowledge and help others master web development. With expertise in React, Next.js, Node.js, WordPress, Shopify, and modern design tools, I turn ideas into profitable, scalable digital experiences. Choose me if you want results, reliability, and a developer who actually delivers.</p>
 </div>
@@ -28,5 +28,11 @@
 ---
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-naeem-ul-haq-251406264/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatima_codenchaos/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-naeem-ul-haq-251406264/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fatima_codenchaos/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
