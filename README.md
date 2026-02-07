@@ -1,55 +1,41 @@
-## Hi there 👋
-
-<!--
-**Alphannnn/Alphannnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started<!-- 👋 Welcome Message -->
+<!-- 👋 Welcome Message -->
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
-  <p>Full-Stack Web Developer | Passionate Coder | Always Learning 💡</p>
+  <h1>Hi there, I'm Fatima Naeem Ul Haq 👋</h1>
+  <p>Building fast, responsive, and profitable web experiences for clients and businesses 🚀</p>
 </div>
 
 ---
 
-### 🚀 About Me
-I'm a web developer building modern and responsive web experiences. I love turning ideas into interactive, user-friendly apps and am constantly learning new technologies to push my boundaries.
+### 💻 What I Can Do For You
+I create modern, responsive, and scalable web applications and e-commerce solutions that help businesses grow online. I focus on **efficient code, clean UI/UX, and real results** for projects — whether it’s a website, web app, or store.
 
 ---
 
-### 💻 Tech Stack
+### 🛠 Skills & Technologies
 
 #### 🌐 Frontend
 HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Next.js • TypeScript
 
-#### 🛠 Backend & Tools
-Node.js • Express • MongoDB • Git • GitHub • Figma
+#### ⚙️ Backend & Databases
+Node.js • Express • MongoDB
+
+#### 🛠 Tools & Platforms
+Figma • Git • GitHub • WordPress • Shopify
 
 #### 📚 Always Learning
-Exploring more frameworks, tools, and best practices to grow as a developer.
+Exploring new frameworks, tools, and best practices to deliver even better solutions.
 
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&style=flat)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/fatima-naeem-ul-haq-251406264/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&style=flat)](https://www.instagram.com/fatima_codenchaos/)
 
 ---
 
 ### 📊 GitHub Stats
-<!-- GitHub Readme Stats (dynamic) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
 
 ---
 
-Thanks for visiting! 🌟
-:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting! Let’s build something amazing together 🌟
